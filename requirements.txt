@@ -1,0 +1,6 @@
+matplotlib
+streamlit
+llama-index
+llama-agents
+pinecone
+llama-index-vector-stores-pinecone
